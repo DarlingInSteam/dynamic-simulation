@@ -1,1 +1,0 @@
-class Product{    public int Id { get; set; }    public int ProcessingTime { get; set; }    public Product(int id, int processingTime)    {        Id = id;        ProcessingTime = processingTime;    }}

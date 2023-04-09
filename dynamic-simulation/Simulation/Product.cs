@@ -1,0 +1,1 @@
+using System.Threading;class Product{    private static int counter = 0;    public int Id { get; private set; }    public int Age { get; private set; }    public Product()    {        Id = Interlocked.Increment(ref counter);        Age = 0;    }    public void AgeProduct(int time)    {        Age += time;    }}

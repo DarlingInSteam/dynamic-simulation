@@ -7,13 +7,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4e2d7d0-f065-4276-bc72-7e63dba34e38" name="Changes" comment="" />
+    <list default="true" id="a4e2d7d0-f065-4276-bc72-7e63dba34e38" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.dynamic-simulation/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.dynamic-simulation/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic-simulation/Models/Product.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic-simulation/Models/Workplace.cs" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic-simulation/Models/Workplace.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic-simulation/Simulation/ProductionLine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic-simulation/Simulation/ProductionLine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic-simulation/ViewModels/MainWindowViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic-simulation/ViewModels/MainWindowViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic-simulation/bin/Debug/net6.0/dynamic-simulation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic-simulation/bin/Debug/net6.0/dynamic-simulation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic-simulation/bin/Debug/net6.0/dynamic-simulation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic-simulation/bin/Debug/net6.0/dynamic-simulation.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic-simulation/obj/Debug/net6.0/Avalonia/original.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic-simulation/obj/Debug/net6.0/Avalonia/original.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic-simulation/obj/Debug/net6.0/Avalonia/original.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic-simulation/obj/Debug/net6.0/Avalonia/original.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic-simulation/obj/Debug/net6.0/dynamic-simulation.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic-simulation/obj/Debug/net6.0/dynamic-simulation.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic-simulation/obj/Debug/net6.0/dynamic-simulation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic-simulation/obj/Debug/net6.0/dynamic-simulation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic-simulation/obj/Debug/net6.0/dynamic-simulation.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic-simulation/obj/Debug/net6.0/dynamic-simulation.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic-simulation/obj/Debug/net6.0/ref/dynamic-simulation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic-simulation/obj/Debug/net6.0/ref/dynamic-simulation.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dynamic-simulation/obj/Debug/net6.0/refint/dynamic-simulation.dll" beforeDir="false" afterPath="$PROJECT_DIR$/dynamic-simulation/obj/Debug/net6.0/refint/dynamic-simulation.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ProjectId" id="2OBftR6mjG1CXduROSpNctaOnbr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -67,7 +83,7 @@
       <option name="presentableId" value="Default" />
       <updated>1681039110294</updated>
       <workItem from="1681039111372" duration="6495000" />
-      <workItem from="1681062545506" duration="6393000" />
+      <workItem from="1681062545506" duration="12701000" />
     </task>
     <servers />
   </component>
