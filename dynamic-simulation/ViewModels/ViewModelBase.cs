@@ -1,0 +1,1 @@
+﻿using ReactiveUI;namespace dynamic_simulation.ViewModels{    public class ViewModelBase : ReactiveObject    {    }}
